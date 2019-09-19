@@ -1,5 +1,5 @@
 public class Fraction{
-public fraction(){
+public Fraction(){
 super();}
 public String toString() {
    return "numerateur et denominateur";
